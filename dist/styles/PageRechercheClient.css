@@ -1,0 +1,64 @@
+body {
+    background-color: #EFEFEF;
+    font-family: 'Ubuntu', sans-serif;
+    position: fixed;
+    
+}
+
+.Recherche-client {
+    width: 95vw;
+    height: 620px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-block-start: 100px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 60px;
+    color: #DB0916;
+}
+
+h4{
+    display: flex;
+
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+form label{
+    display: flex;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+form input{
+    width: 300px;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+    
+}
+
+.button{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #DB0916;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
