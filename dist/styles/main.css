@@ -1,2 +1,47 @@
+html{
+    font-size: 62.5%;
+}
+
+body {
+    background: #ffffff;
+}
+
+#gauche {
+    position: absolute;
+    right: 934px;
+    left: 0px;
+    top: 0px;
+    width: 745px;
+    height: 908px;
+}
+
+.spider {
+    width: 403px;
+    position: absolute;
+    left: 168px;
+    top: 339px;
+}
+
+#droite {
+    background: #BBBDBE;
+    position: absolute;
+    left: 745px;
+    top: 0px;
+    width: 935px;
+    height: 908px;
+    border-radius: 48px 0px 0px 48px;
+    box-shadow: -4px 4px 4px 0px rgba(0, 0, 0, 0.13);
+}
+
+.titre1{
+    font-size: 60px;
+    text-align: center;   
+    margin-top: 150px;
+}
+
+.titre2 {
+    font-size: 30px;
+    text-align: center;
+}
 
 /*# sourceMappingURL=main.css.map */
