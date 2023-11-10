@@ -33,16 +33,27 @@ body {
     box-shadow: -4px 4px 4px 0px rgba(0, 0, 0, 0.13);
 }
 
-.titre1 {
-    font-size: 60px;
-    text-align: center; 
-    margin: 0px;
+.bloc1 {
+    width: 316px;
+    height: 144px;
+    margin: auto;
     margin-top: 150px;
+    text-align: center;
+}
+
+.titre1 {
     font-family: 'Kanit', sans-serif;
+    font-size: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .texte1 {
-    font-size: 34px;
-    font-family: Ubuntu;
+    font-size: 30px;
+    padding-bottom: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Ubuntu', sans-serif;
 }
+
 /*# sourceMappingURL=main.css.map */
