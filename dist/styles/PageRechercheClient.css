@@ -5,11 +5,6 @@ body {
     
 }
 
-.Logo{
-    width: 90px;
-    height: 80px;
-}
-
 .Recherche-client {
     width: 95vw;
     height: 620px;
@@ -20,14 +15,22 @@ body {
     margin-block-start: 100px;
     background-color: white;
     border-radius: 30px;
+    padding-top: 100px;
 }
 
+.Logo{
+    width: 124px;
+    height: 90px;
+    border-radius: 20px;
+    
+    
+}
 
 .Toptext{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 60px;
+    padding-top: 1px;
 
 }
 
