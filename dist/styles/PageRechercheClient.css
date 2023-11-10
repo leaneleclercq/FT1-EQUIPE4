@@ -17,10 +17,21 @@ body {
     border-radius: 30px;
 }
 
-h1{
-    text-align: center;
+
+.Toptext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding-top: 60px;
+
+}
+
+.Client{
     color: #DB0916;
+}
+
+.Newclient{
+    color: black;
 }
 
 h4{
