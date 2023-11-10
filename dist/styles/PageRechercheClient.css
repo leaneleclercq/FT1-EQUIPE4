@@ -1,83 +1,79 @@
-body {
+body{
     background-color: #EFEFEF;
-    font-family: 'Ubuntu', sans-serif;
     position: fixed;
-    
 }
 
-.Recherche-client {
-    width: 95vw;
-    height: 620px;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    margin-right: 1rem;
-    margin-left: 1rem;
-    margin-block-start: 100px;
-    background-color: white;
+.container {
+    width: 1410px;
+    height: 900px;
     border-radius: 30px;
-    padding-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    position: fixed;
 }
 
-.Logo{
+.logo{
     width: 124px;
     height: 90px;
     border-radius: 20px;
-    
-    
-}
-
-.Toptext{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 1px;
-
+    padding-right: 300px;
 }
 
-.Client{
+ .DéjàClient{
     color: #DB0916;
-}
+    margin-top: 70px;
+ }   
 
-.Newclient{
+ .NouveauClient{
     color: black;
-}
+    margin-top: 70px;
+ }
 
-h4{
+ .bloc1{
     display: flex;
-
-}
-
-.container{
+    align-items: center;
+    
+ }
+ .container2{
     width: 100%;
     display: flex;
+    margin-top: 30px;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-}
+    border-color: black;
+    
+ }
 
-form label{
+ label{
     display: flex;
     margin-top: 10px;
-    font-size: 18px;
-}
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+ }
 
-form input{
-    width: 300px;
+ input{
+    width: 400px;
+    height: 23px;
     padding: 7px;
     border: none;
     border: 1px solid gray;
-    border-radius: 6px;
+    border-radius: 8px;
     outline: none;
-    
-}
+ }
 
 .button{
-    width: 320px;
+    width: 220px;
     height: 35px;
-    margin-top: 20px;
+    margin-top: 40px;
     border: none;
     background-color: #DB0916;
     color: white;
-    font-size: 16px;
+    font-size: 17px;
     text-align: center;
+    border-radius: 30px;
 }
