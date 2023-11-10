@@ -5,6 +5,11 @@ body {
     
 }
 
+.Logo{
+    width: 90px;
+    height: 80px;
+}
+
 .Recherche-client {
     width: 95vw;
     height: 620px;
