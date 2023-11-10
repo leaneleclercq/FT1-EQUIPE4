@@ -1,0 +1,62 @@
+<<<<<<< Updated upstream
+
+=======
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: #ffffff;
+}
+
+#partieLogo{
+    position: absolute;
+    right: 934px;
+    left: 0px;
+    top: 0px;
+    width: 745px;
+    height: 908px;
+}
+
+.spider {
+    width: 403px;
+    position: absolute;
+    left: 168px;
+    top: 339px;
+}
+
+#partieDroite {
+    background: #BBBDBE;
+    position: absolute;
+    left: 745px;
+    top: 0px;
+    width: 935px;
+    height: 908px;
+    border-radius: 48px 0px 0px 48px;
+    box-shadow: -4px 4px 4px 0px rgba(0, 0, 0, 0.13);
+}
+
+.bloc1 {
+    width: 316px;
+    height: 144px;
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.titre1 {
+    font-family: 'Kanit', sans-serif;
+    font-size: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.texte1 {
+    font-size: 30px;
+    padding-bottom: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+>>>>>>> Stashed changes
+/*# sourceMappingURL=main.css.map */
