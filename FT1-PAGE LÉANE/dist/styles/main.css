@@ -23,12 +23,12 @@ body {
 }
 
 #partieDroite {
-    background: #BBBDBE;
+    background: #EFEFEF;
     position: absolute;
     left: 745px;
     top: 0px;
     width: 935px;
-    height: 908px;
+    height: 939px;
     border-radius: 48px 0px 0px 48px;
     box-shadow: -4px 4px 4px 0px rgba(0, 0, 0, 0.13);
 }
@@ -56,4 +56,78 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
+.formulaire {
+    margin: 0px;
+    padding: 0px;
+    width: 478px;
+    height: 344px;
+    margin: auto;
+    margin-top: 130px;
+}
+
+.champ1 {   
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    font-family: 'Barlow', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.champ2 {   
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    font-family: 'Barlow', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 30px ;
+}
+
+.input-box {
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+
+.input-box input {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    border: 1px solid #939393;
+    background: var(--white-100, #FFF);
+    padding: 0px 0px 0px 0px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Barlow', sans-serif;
+    outline: none;
+}
+
+.cadena {
+    position: absolute;
+    left: 10px;
+    top: 25px;
+}
+
+.oeilOff {
+    position: absolute;
+    right: 15px;
+    top: 27px;
+}
+
+.boutonConnexion {
+    width: 197px;
+    height: 44px;
+    border: none;
+    border-radius: 33px;
+    margin-top: 50px;
+    background: #DB0916;
+    color: #FFF;
+    font-family: 'Barlow', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 140px;
+}
 /*# sourceMappingURL=main.css.map */
