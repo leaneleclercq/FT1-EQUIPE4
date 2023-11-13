@@ -85,7 +85,7 @@ body {
 }
 
 .input-box {
-    width: 500px;
+    width: 100%;
     height: 50px;
     margin: 0px;
     padding: 0px;
@@ -126,7 +126,7 @@ body {
 
 .oeilOff {
     position: absolute;
-    right: 15px;
+    right: 10px;
     top: 27px;
 }
 
