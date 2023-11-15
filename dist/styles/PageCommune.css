@@ -1,0 +1,600 @@
+html {
+    font-size: 62.5%;
+}
+
+#sideBar{
+    position: fixed;
+    right: 20px;
+    top: 0px;
+    left: 0px;
+    width: 272px;
+    height: 908px;
+    background: #EFEFEF;
+    border-radius: 0px 60px 0px 0px;
+    box-shadow: 0px -4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.logoSpider {
+    width: 120px;
+    position: absolute;
+    left: 74px;
+    top: 38px;
+}
+
+.texte1 {
+    font-size: 16px;
+    position: absolute;
+    top: 149px;
+    left: 64px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Barlow', sans-serif;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.iconMaison {
+    width: 21px;
+    position: absolute;
+    top: 150px;
+    left: 30px;
+}
+
+.texte2 {
+    font-size: 16px;
+    position: absolute;
+    top: 193px;
+    left: 64px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Barlow', sans-serif;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.iconCalendrier {
+    width: 21px;
+    position: absolute;
+    top: 193px;
+    left: 30px;
+}
+
+
+.boutonCommande {
+    width: 210px;
+    height: 34px;
+    border-radius: 34px;
+    background: #DB0916;
+    position: absolute;
+    top: 678px;
+    left: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.iconAjout {
+    width: 14px;
+    position: absolute;
+    top: 10px;
+    left: 18px;
+}
+
+.texte3 {
+    font-size: 16px;
+    position: absolute;
+    top: 7px;
+    left: 43px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Barlow', sans-serif;
+    color: #FFF;
+}
+
+.iconDeconnexion {
+    width: 23px;
+    position: absolute;
+    top: 770px;
+    left: 30px;
+}
+
+texte4 {
+    font-size: 16px;
+    position: absolute;
+    top: 772px;
+    left: 64px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Barlow', sans-serif;
+}
+
+#partieDroite {
+    position: absolute;
+    top: 0px;
+    left: 272px;
+    width: 1406px;
+    height: 908px;
+}
+
+.coordonnéesClient {
+    width: 1340px;
+    height: 190px;
+    border-radius: 28px;
+    border: 1px solid #C7C7C7;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin: auto;
+    margin-top: 38px;
+    text-align: center;
+}
+
+.titre1 {
+    font-size: 24px;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+}
+
+.iconPersonnage {
+    width: 15px;
+    position: absolute;
+    top: 110px;
+    left: 70px;
+}
+
+.titre2 {
+    font-size: 20px;
+    position: absolute;
+    top: 105px;
+    left: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.iconTelephone {
+    width: 15px;
+    position: absolute;
+    top: 140px;
+    left: 70px;
+}
+
+.titre3 {
+    font-size: 20px;
+    position: absolute;
+    top: 135px;
+    left: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.iconMail {
+    width: 15px;
+    position: absolute;
+    top: 175px;
+    left: 70px;
+}
+
+.titre4 {
+    font-size: 20px;
+    position: absolute;
+    top: 165px;
+    left: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.chiffre {
+    font-size: 24px;
+    position: absolute;
+    top: 70px;
+    right: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+}
+
+.titre5 {
+    font-size: 20px;
+    position: absolute;
+    top: 105px;
+    right: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.titre6 {
+    font-size: 20px;
+    position: absolute;
+    top: 135px;
+    right: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Barlow', sans-serif;
+}
+
+
+.chiffresClés {
+    position: absolute;
+    top: 252px;
+    left: 272px;
+    width: 1340px;
+    height: 210px;
+    margin: auto;
+    margin-left: 30px;
+}
+
+.grandTitre{
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Inter, sans-serif;
+    padding-left: 10px;
+}
+
+.tousLesBlocs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloc1{
+    position: absolute;
+    left: 0px;
+    width: 380px;
+    border-radius: 8px;
+    border: 1px solid #efefef;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.graph1 {
+    position: relative;
+    left: 250px;
+    bottom: 20px;
+}
+
+.chiffre1{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 5px;
+    top: 20px;
+    color: #BDBFC1;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'barlow', sans-serif;
+    margin-left: 13px;
+}
+
+.commandesTotales{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 5px;
+    top: 10px;
+    color: #BDBFC1;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'barlow', sans-serif;
+    margin-left: 13px;
+}
+
+
+.bloc2{
+    width: 380px;
+    border-radius: 8px;
+    border: 1px solid #efefef;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.graph2 {
+    position: relative;
+    left: 250px;
+    bottom: 20px;
+}
+
+.commandesEnCours{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 5px;
+    top: 10px;
+    color: #EE9919;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'barlow', sans-serif;
+    margin-left: 13px;
+}
+
+
+.chiffre2{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 5px;
+    top: 20px;
+    color: #EE9919;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'barlow', sans-serif;
+    margin-left: 13px;
+}
+
+.bloc3{
+    position: absolute;
+    right: 0px;
+    width: 380px;
+    border-radius: 8px;
+    border: 1px solid #efefef;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+
+.graph3 {
+    position: relative;
+    left: 220px;
+    bottom: 20px;
+}
+
+.commandesARegulariser{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 5px;
+    top: 10px;
+    color: #EF0000;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'barlow', sans-serif;
+    margin-left: 13px;
+}
+
+.chiffre3{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 5px;
+    top: 20px;
+    color: #EF0000;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'barlow', sans-serif;
+    margin-left: 13px;
+}
+
+.barreFiltres{
+    position: absolute;
+    top: 510px;
+    left: 272px;
+    width: 1340px;
+    height: 40px;
+    border: black;
+    border: 20px;
+    margin: auto;
+    margin-left: 30px;
+    border-bottom: inset;
+    display: flex;
+    align-items: center;
+}
+
+.élémentsFiltres{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.icôneDanger{
+    width: 25.14px;
+    height: 22px;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+
+.titreEtat1 {
+    color: #EE9919;
+    font-size: 19.75px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    border-bottom: 3px solid #EE9919;
+    margin: 0px;
+    margin-top: 18px;
+    margin-left: 65px;
+    width: 90px;
+}
+
+.titreEtat2 {
+    color: #9B9A9A;
+    font-size: 19.75px;
+    font-family: 'Inter', sans-serif;
+    margin: 0px;
+    margin-top: 12px;
+    padding-left: 46px;
+}
+
+.input-box{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+}
+
+.input1{
+    background-color: #e5e3e3;
+    border-radius: 20px;
+    border: none;
+    width: 276px;
+    height: 30px; 
+}
+
+.input-box input::placeholder{
+    color: #9B9A9A;
+    padding: 20px 40px 20px 30px;
+}
+
+.icôneRecherche{
+    position: absolute;
+    padding-right: 254px;
+}
+
+#container {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    top: 560px;
+    left: 272px;
+    width: 1340px;
+    height: 100%;
+    margin: auto;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.commande{
+    width: 541px;
+    height: 397px;
+    border-radius: 28px;
+    border: 3px solid #EE9919;
+}
+
+.partieHaute {
+    bottom: 15px;
+}
+
+.partieBasse {
+    bottom: 15px;
+}
+
+.droite1 {
+    border-left: 1px solid black;
+}
+
+.numéroCommande {
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    margin: 0px;
+    position: absolute;
+    top: 40px;
+    margin-left: 20px;
+}
+
+.totalCommande {
+    font-size: 18px;
+    font-family: 'Barlow', sans-serif;
+    margin: 0px;
+    position: absolute;
+    top: 65px;
+    margin-left: 20px;
+}
+
+.modifier {
+    font-size: 11px;
+    font-family: 'Barlow', sans-serif;
+    margin: 0px;
+    position: absolute;
+    top: 40px;
+    margin-left: 470px;
+}
+
+.crayon {
+    width: 13px;
+    position: absolute;
+    top: 40px;
+    margin-left: 450px;
+}
+
+.nacelle {
+    width: 200px;
+    position: absolute;
+    top: 85px;
+    margin-left: 35px;
+}
+
+.nomEquipement {
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    top: 106px;
+    margin-left: 290px;
+    text-decoration-line: underline;
+}
+
+.prixEquipement {
+    color: #EE9919;
+    font-size: 20px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+    position: absolute;
+    top: 115px;
+    margin-left: 290px;
+}
+
+.lieuChantier {
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    top: 175px;
+    margin-left: 290px;
+}
+
+.adresseChantier {
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    position: absolute;
+    top: 195px;
+    margin-left: 290px;
+}
+
+.contrat {
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    top: 245px;
+    margin-left: 290px;
+}
+
+.devis {
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    top: 265px;
+    margin-left: 290px;
+}
+
+.téléchargement {
+    position: absolute;
+    top: 255px;
+    margin-left: 365px;
+}
+
+.téléchargement1 {
+    position: absolute;
+    top: 275px;
+    margin-left: 365px;
+}
+
+.dateChantier {
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    top: 310px;
+    margin-left: 290px;
+}
+
+

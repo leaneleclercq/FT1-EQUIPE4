@@ -96,8 +96,3 @@ body{
    margin-left: 240px;
 }
 
-@media srceen and (max-width: 1528px){
-   .container{
-      width: 90%;
-   }
-}
