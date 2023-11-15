@@ -70,6 +70,7 @@ body{
    display: flex;
    justify-content: center;
    align-items: center;
+   font-weight: normal;
  }
 
 
@@ -85,14 +86,19 @@ body{
 
 .button{
     width: 220px;
-    height: 35px;
+    height: 70px;
     margin-top: 40px;
     border: none;
     background-color: #DB0916;
     color: white;
     font-size: 17px;
+    font-family: 'Ubuntu', sans-serif;
     text-align: center;
     border-radius: 30px;
-   margin-left: 240px;
+    margin-left: 260px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 

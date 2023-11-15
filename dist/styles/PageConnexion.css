@@ -131,6 +131,7 @@ body {
 }
 
 .boutonConnexion {
+
     width: 197px;
     height: 44px;
     border: none;
@@ -142,4 +143,8 @@ body {
     font-size: 14px;
     font-weight: 600;
     margin-left: 140px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
